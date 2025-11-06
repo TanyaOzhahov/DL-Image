@@ -17,8 +17,6 @@ Accuracy (доля правильно классифицированных из�
 
 Отслеживались также кривые лоссов (train/val loss) и динамика accuracy по эпохам.
 
-
-% размеченных данных	Baseline test acc	Pretrained test acc	Baseline max val acc	Pretrained max val acc
 100%	0.8417	0.7401	0.8553	0.7508
 50%	0.8154	0.7223	0.8245	0.7292
 10%	0.6915	0.6676	0.6923	0.6742
